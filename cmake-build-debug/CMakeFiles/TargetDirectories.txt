@@ -1,0 +1,3 @@
+/home/comet/opt/tools/2opt/cmake-build-debug/CMakeFiles/2opt.dir
+/home/comet/opt/tools/2opt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/comet/opt/tools/2opt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
